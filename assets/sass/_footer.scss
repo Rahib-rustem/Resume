@@ -1,0 +1,51 @@
+
+
+footer{
+margin-top:80px;
+width: 100%;
+min-height: 130px;
+height:auto;
+background:#E83556;
+	.footerItem{
+			display: inline-flex;
+			margin-top: 38px;
+		.footer-box{
+			margin-left: 11px;
+		}
+	}	
+
+
+
+.number{
+		font-size: 12px;
+		margin-left: 12px;
+		
+		.call{
+			display: block;
+			color: white;
+		}
+		.font{
+			font-weight: 700;
+		}
+		.socialBox{
+			color:white;
+			font-size: 16px;
+			margin-top:5px;
+		}
+		.social{
+			margin-left: 5px;
+		}
+	}
+
+
+.icon{
+	width: 50px;
+	height: 50px;
+	fill: #61D0D4;
+	
+
+}
+
+
+}
+
